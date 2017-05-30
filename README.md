@@ -1,10 +1,12 @@
-#Getting and Cleaning Data Project
+Getting and Cleaning Data Project
+=================================
 
 Swarnendu Sen
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
 Overview
+---------
 
 The purpose of this project is to demonstrate our ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
@@ -12,7 +14,7 @@ The source data for this project can be found at the UCI MAchine Learning Websit
 
 
 Project Summary
-
+---------------
 The following is a summary description of the project instructions
 
 You should create one R script called run_analysis.R that does the following.
@@ -25,5 +27,6 @@ You should create one R script called run_analysis.R that does the following.
 ---Creates a tidy dataset that consists of the average value of each variable for each subject and activity pair.
 
 Additional Information
+-----------------------
 
 You can find additional information about the variables, data and transformations in the CodeBook.MD file. The end result is show in the file tidy.txt.
