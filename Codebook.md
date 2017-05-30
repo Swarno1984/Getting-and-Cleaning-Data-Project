@@ -1,12 +1,13 @@
 This code book summarizes the resulting data fields in tidy.txt.
 
 Identifiers
-
+------------
 subject - ID of the Subject
 activity - Corresponding Activity During the Measurements
 
 
 Measurements
+-------------
 
 tBodyAccMeanX
 tBodyAccMeanY
@@ -89,6 +90,7 @@ fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 
 Activity Labels
+----------------
 
 WALKING (value 1): subject was walking during the test
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
